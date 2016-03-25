@@ -1,0 +1,432 @@
+  READING: 2VB1BBB.hin                             
+ number of atoms=   2155
+ number of mols=   184
+ number of res=    312
+ number of charged res=   0 tot charge=   0.000000 without roundoff=   0
+ nber images=   27 inscribed radius=  13.535
+ ADDING           2  MISSING H to LyS 1 - A   
+ ADDING           1  MISSING H to cYS 6 - A   
+ ADDING           1  MISSING H to ARG 14 - A  
+ ADDING           1  MISSING H to hIS 15 - A  
+ ADDING           1  MISSING H to LEU 17 - A  
+ ADDING           1  MISSING H to ASP 18 - A  
+ ADDED            0  HEAVY ATOMS to TYR 20 - A   T
+ selecting res Tyr 20 - A    20   1 q= 0.000 image=  1
+ ADDING           1  MISSING H to TYR 23 - A  
+ ADDING           1  MISSING H to GLY 26 - A  
+ ADDING           1  MISSING H to ASN 37 - A  
+ ADDING           1  MISSING H to ASN 39 - A  
+ ADDING           1  MISSING H to GLN 41 - A  
+ ADDING           1  MISSING H to ASN 44 - A  
+ ADDING           1  MISSING H to ARG 45 - A  
+ ADDING           1  MISSING H to ASP 48 - A  
+ ADDING           1  MISSING H to ILE 55 - A  
+ ADDING           1  MISSING H to ARG 61 - A  
+ ADDING           1  MISSING H to TRP 62 - A  
+ ADDING           1  MISSING H to PRO 70 - A  
+ ADDING           1  MISSING H to ARG 73 - A  
+ ADDING           1  MISSING H to ILE 78 - A  
+ ADDING           1  MISSING H to cYS 80 - A  
+ ADDING           1  MISSING H to LEU 83 - A  
+ ADDING           1  MISSING H to SER 85 - A  
+ ADDING           1  MISSING H to SER 86 - A  
+ ADDING           1  MISSING H to SER 91 - A  
+ ADDING           1  MISSING H to LYS 97 - A  
+ ADDING           1  MISSING H to ASP 101 - A 
+ ADDING           1  MISSING H to MET 105 - A 
+ ADDING           1  MISSING H to ASN 106 - A 
+ ADDING           1  MISSING H to VAL 109 - A 
+ ADDING           1  MISSING H to cYS 115 - A 
+ ADDING           2  MISSING H to LYS 116 - A 
+ ADDING           1  MISSING H to TRP 123 - A 
+ ADDING           2  MISSING H to ARG 128 - A 
+  WRITING: jnk.hin
+ natoms,nimages,nmol=        2192          27         184
+ 
+ SECOND PASS TO ADD TERMINATING HYD RESIDUES AND HXT ATOMS
+ 
+   CG tor,costor,torsign= 104.800   0.000
+ selecting res Tyr 20 - A    20   1 q= 0.000 image=  1
+   CG tor,costor,torsign= -78.238   0.000
+ selecting res Tyr 20 - A    20   1 q= 0.000 image=  1
+  WRITING: jnk1.hin
+ natoms,nimages,nmol=        2194          27         184
+ selecting res LyS 1 - A      1   1 q= 0.000 image=  1
+ selecting res LyS 1 - A      1   1 q= 0.000 image=  1
+ selecting res LyS 1 - A      1   1 q= 0.000 image=  1
+ selecting res LyS 1 - A      1   1 q= 0.000 image=  1
+ selecting res LyS 1 - A      1   1 q= 0.000 image=  1
+ selecting res LyS 1 - A      1   1 q= 0.000 image=  1
+ selecting res VAL 2 - A      2   1 q= 0.000 image=  1
+ selecting res PHE 3 - A      3   1 q= 0.000 image=  1
+ selecting res GLY 4 - A      4   1 q= 0.000 image=  1
+ selecting res ARG 5 - A      5   1 q= 0.000 image=  1
+ selecting res ARG 5 - A      5   1 q= 0.000 image=  1
+ selecting res ARG 5 - A      5   1 q= 0.000 image=  1
+ selecting res ARG 5 - A      5   1 q= 0.000 image=  1
+ selecting res ARG 5 - A      5   1 q= 0.000 image=  1
+ selecting res ARG 5 - A      5   1 q= 0.000 image=  1
+ selecting res GLU 7 - A      7   1 q= 0.000 image=  1
+ selecting res LEU 8 - A      8   1 q= 0.000 image=  1
+ selecting res ALA 9 - A      9   1 q= 0.000 image=  1
+ selecting res ALA 10 - A    10   1 q= 0.000 image=  1
+ selecting res ALA 11 - A    11   1 q= 0.000 image=  1
+ selecting res MET 12 - A    12   1 q= 0.000 image=  1
+ selecting res LYS 13 - A    13   1 q= 0.000 image=  1
+ selecting res LYS 13 - A    13   1 q= 0.000 image=  1
+ selecting res LYS 13 - A    13   1 q= 0.000 image=  1
+ selecting res LYS 13 - A    13   1 q= 0.000 image=  1
+ selecting res ARG 14 - A    14   1 q= 0.000 image=  1
+ selecting res ARG 14 - A    14   1 q= 0.000 image=  1
+ selecting res ARG 14 - A    14   1 q= 0.000 image=  1
+ selecting res ARG 14 - A    14   1 q= 0.000 image=  1
+ selecting res ARG 14 - A    14   1 q= 0.000 image=  1
+ selecting res ARG 14 - A    14   1 q= 0.000 image=  1
+ selecting res hIS 15 - A    15   1 q= 0.000 image=  1
+ selecting res hIS 15 - A    15   1 q= 0.000 image=  1
+ selecting res GLY 16 - A    16   1 q= 0.000 image=  1
+ selecting res ASN 19 - A    19   1 q= 0.000 image=  1
+ selecting res ASN 19 - A    19   1 q= 0.000 image=  1
+ selecting res ASN 19 - A    19   1 q= 0.000 image=  1
+ selecting res Tyr 20 - A    20   1 q= 0.000 image=  1
+ selecting res ARG 21 - A    21   1 q= 0.000 image=  1
+ selecting res ARG 21 - A    21   1 q= 0.000 image=  1
+ selecting res ARG 21 - A    21   1 q= 0.000 image=  1
+ selecting res ARG 21 - A    21   1 q= 0.000 image=  1
+ selecting res ARG 21 - A    21   1 q= 0.000 image=  1
+ selecting res ARG 21 - A    21   1 q= 0.000 image=  1
+ selecting res GLY 22 - A    22   1 q= 0.000 image=  1
+ selecting res TYR 23 - A    23   1 q= 0.000 image=  1
+ selecting res TYR 23 - A    23   1 q= 0.000 image=  1
+ selecting res SER 24 - A    24   1 q= 0.000 image=  1
+ selecting res SER 24 - A    24   1 q= 0.000 image=  1
+ selecting res LEU 25 - A    25   1 q= 0.000 image=  1
+ selecting res ASN 27 - A    27   1 q= 0.000 image=  1
+ selecting res ASN 27 - A    27   1 q= 0.000 image=  1
+ selecting res ASN 27 - A    27   1 q= 0.000 image=  1
+ selecting res TRP 28 - A    28   1 q= 0.000 image=  1
+ selecting res TRP 28 - A    28   1 q= 0.000 image=  1
+ selecting res VAL 29 - A    29   1 q= 0.000 image=  1
+ selecting res cYS 30 - A    30   1 q= 0.000 image=  1
+ selecting res ALA 31 - A    31   1 q= 0.000 image=  1
+ selecting res ALA 32 - A    32   1 q= 0.000 image=  1
+ selecting res LYS 33 - A    33   1 q= 0.000 image=  1
+ selecting res LYS 33 - A    33   1 q= 0.000 image=  1
+ selecting res LYS 33 - A    33   1 q= 0.000 image=  1
+ selecting res LYS 33 - A    33   1 q= 0.000 image=  1
+ selecting res PHE 34 - A    34   1 q= 0.000 image=  1
+ selecting res GLU 35 - A    35   1 q= 0.000 image=  1
+ selecting res SER 36 - A    36   1 q= 0.000 image=  1
+ selecting res SER 36 - A    36   1 q= 0.000 image=  1
+ selecting res ASN 37 - A    37   1 q= 0.000 image=  1
+ selecting res ASN 37 - A    37   1 q= 0.000 image=  1
+ selecting res PHE 38 - A    38   1 q= 0.000 image=  1
+ selecting res ASN 39 - A    39   1 q= 0.000 image=  1
+ selecting res ASN 39 - A    39   1 q= 0.000 image=  1
+ selecting res THR 40 - A    40   1 q= 0.000 image=  1
+ selecting res THR 40 - A    40   1 q= 0.000 image=  1
+ selecting res GLN 41 - A    41   1 q= 0.000 image=  1
+ selecting res GLN 41 - A    41   1 q= 0.000 image=  1
+ selecting res ALA 42 - A    42   1 q= 0.000 image=  1
+ selecting res THR 43 - A    43   1 q= 0.000 image=  1
+ selecting res THR 43 - A    43   1 q= 0.000 image=  1
+ selecting res ASN 44 - A    44   1 q= 0.000 image=  1
+ selecting res ASN 44 - A    44   1 q= 0.000 image=  1
+ selecting res ARG 45 - A    45   1 q= 0.000 image=  1
+ selecting res ARG 45 - A    45   1 q= 0.000 image=  1
+ selecting res ARG 45 - A    45   1 q= 0.000 image=  1
+ selecting res ARG 45 - A    45   1 q= 0.000 image=  1
+ selecting res ARG 45 - A    45   1 q= 0.000 image=  1
+ selecting res ARG 45 - A    45   1 q= 0.000 image=  1
+ selecting res ASN 46 - A    46   1 q= 0.000 image=  1
+ selecting res ASN 46 - A    46   1 q= 0.000 image=  1
+ selecting res ASN 46 - A    46   1 q= 0.000 image=  1
+ selecting res THR 47 - A    47   1 q= 0.000 image=  1
+ selecting res THR 47 - A    47   1 q= 0.000 image=  1
+ selecting res ASP 48 - A    48   1 q= 0.000 image=  1
+ selecting res GLY 49 - A    49   1 q= 0.000 image=  1
+ selecting res SER 50 - A    50   1 q= 0.000 image=  1
+ selecting res SER 50 - A    50   1 q= 0.000 image=  1
+ selecting res THR 51 - A    51   1 q= 0.000 image=  1
+ selecting res THR 51 - A    51   1 q= 0.000 image=  1
+ selecting res ASP 52 - A    52   1 q= 0.000 image=  1
+ selecting res TYR 53 - A    53   1 q= 0.000 image=  1
+ selecting res TYR 53 - A    53   1 q= 0.000 image=  1
+ selecting res GLY 54 - A    54   1 q= 0.000 image=  1
+ selecting res LEU 56 - A    56   1 q= 0.000 image=  1
+ selecting res GLN 57 - A    57   1 q= 0.000 image=  1
+ selecting res GLN 57 - A    57   1 q= 0.000 image=  1
+ selecting res GLN 57 - A    57   1 q= 0.000 image=  1
+ selecting res ILE 58 - A    58   1 q= 0.000 image=  1
+ selecting res ASN 59 - A    59   1 q= 0.000 image=  1
+ selecting res ASN 59 - A    59   1 q= 0.000 image=  1
+ selecting res ASN 59 - A    59   1 q= 0.000 image=  1
+ selecting res SER 60 - A    60   1 q= 0.000 image=  1
+ selecting res SER 60 - A    60   1 q= 0.000 image=  1
+ selecting res ARG 61 - A    61   1 q= 0.000 image=  1
+ selecting res ARG 61 - A    61   1 q= 0.000 image=  1
+ selecting res ARG 61 - A    61   1 q= 0.000 image=  1
+ selecting res ARG 61 - A    61   1 q= 0.000 image=  1
+ selecting res ARG 61 - A    61   1 q= 0.000 image=  1
+ selecting res TRP 62 - A    62   1 q= 0.000 image=  1
+ selecting res TRP 63 - A    63   1 q= 0.000 image=  1
+ selecting res TRP 63 - A    63   1 q= 0.000 image=  1
+ selecting res cYS 64 - A    64   1 q= 0.000 image=  1
+ selecting res ASN 65 - A    65   1 q= 0.000 image=  1
+ selecting res ASN 65 - A    65   1 q= 0.000 image=  1
+ selecting res ASN 65 - A    65   1 q= 0.000 image=  1
+ selecting res ASP 66 - A    66   1 q= 0.000 image=  1
+ selecting res GLY 67 - A    67   1 q= 0.000 image=  1
+ selecting res ARG 68 - A    68   1 q= 0.000 image=  1
+ selecting res ARG 68 - A    68   1 q= 0.000 image=  1
+ selecting res ARG 68 - A    68   1 q= 0.000 image=  1
+ selecting res ARG 68 - A    68   1 q= 0.000 image=  1
+ selecting res ARG 68 - A    68   1 q= 0.000 image=  1
+ selecting res ARG 68 - A    68   1 q= 0.000 image=  1
+ selecting res THR 69 - A    69   1 q= 0.000 image=  1
+ selecting res THR 69 - A    69   1 q= 0.000 image=  1
+ selecting res GLY 71 - A    71   1 q= 0.000 image=  1
+ selecting res SER 72 - A    72   1 q= 0.000 image=  1
+ selecting res SER 72 - A    72   1 q= 0.000 image=  1
+ selecting res ARG 73 - A    73   1 q= 0.000 image=  1
+ selecting res ARG 73 - A    73   1 q= 0.000 image=  1
+ selecting res ARG 73 - A    73   1 q= 0.000 image=  1
+ selecting res ARG 73 - A    73   1 q= 0.000 image=  1
+ selecting res ARG 73 - A    73   1 q= 0.000 image=  1
+ selecting res ARG 73 - A    73   1 q= 0.000 image=  1
+ selecting res ASN 74 - A    74   1 q= 0.000 image=  1
+ selecting res ASN 74 - A    74   1 q= 0.000 image=  1
+ selecting res ASN 74 - A    74   1 q= 0.000 image=  1
+ selecting res LEU 75 - A    75   1 q= 0.000 image=  1
+ selecting res cYS 76 - A    76   1 q= 0.000 image=  1
+ selecting res ASN 77 - A    77   1 q= 0.000 image=  1
+ selecting res ASN 77 - A    77   1 q= 0.000 image=  1
+ selecting res ASN 77 - A    77   1 q= 0.000 image=  1
+ selecting res SER 81 - A    81   1 q= 0.000 image=  1
+ selecting res SER 81 - A    81   1 q= 0.000 image=  1
+ selecting res ALA 82 - A    82   1 q= 0.000 image=  1
+ selecting res LEU 83 - A    83   1 q= 0.000 image=  1
+ selecting res LEU 84 - A    84   1 q= 0.000 image=  1
+ selecting res SER 85 - A    85   1 q= 0.000 image=  1
+ selecting res SER 85 - A    85   1 q= 0.000 image=  1
+ selecting res SER 86 - A    86   1 q= 0.000 image=  1
+ selecting res SER 86 - A    86   1 q= 0.000 image=  1
+ selecting res ASP 87 - A    87   1 q= 0.000 image=  1
+ selecting res ILE 88 - A    88   1 q= 0.000 image=  1
+ selecting res THR 89 - A    89   1 q= 0.000 image=  1
+ selecting res THR 89 - A    89   1 q= 0.000 image=  1
+ selecting res ALA 90 - A    90   1 q= 0.000 image=  1
+ selecting res SER 91 - A    91   1 q= 0.000 image=  1
+ selecting res VAL 92 - A    92   1 q= 0.000 image=  1
+ selecting res ASN 93 - A    93   1 q= 0.000 image=  1
+ selecting res ASN 93 - A    93   1 q= 0.000 image=  1
+ selecting res ASN 93 - A    93   1 q= 0.000 image=  1
+ selecting res cYS 94 - A    94   1 q= 0.000 image=  1
+ selecting res ALA 95 - A    95   1 q= 0.000 image=  1
+ selecting res LYS 96 - A    96   1 q= 0.000 image=  1
+ selecting res LYS 96 - A    96   1 q= 0.000 image=  1
+ selecting res LYS 96 - A    96   1 q= 0.000 image=  1
+ selecting res LYS 96 - A    96   1 q= 0.000 image=  1
+ selecting res LYS 97 - A    97   1 q= 0.000 image=  1
+ selecting res LYS 97 - A    97   1 q= 0.000 image=  1
+ selecting res LYS 97 - A    97   1 q= 0.000 image=  1
+ selecting res LYS 97 - A    97   1 q= 0.000 image=  1
+ selecting res ILE 98 - A    98   1 q= 0.000 image=  1
+ selecting res VAL 99 - A    99   1 q= 0.000 image=  1
+ selecting res SER 100 - A  100   1 q= 0.000 image=  1
+ selecting res SER 100 - A  100   1 q= 0.000 image=  1
+ selecting res GLY 102 - A  102   1 q= 0.000 image=  1
+ selecting res ASN 103 - A  103   1 q= 0.000 image=  1
+ selecting res ASN 103 - A  103   1 q= 0.000 image=  1
+ selecting res ASN 103 - A  103   1 q= 0.000 image=  1
+ selecting res GLY 104 - A  104   1 q= 0.000 image=  1
+ selecting res ASN 106 - A  106   1 q= 0.000 image=  1
+ selecting res ASN 106 - A  106   1 q= 0.000 image=  1
+ selecting res ALA 107 - A  107   1 q= 0.000 image=  1
+ selecting res TRP 108 - A  108   1 q= 0.000 image=  1
+ selecting res TRP 108 - A  108   1 q= 0.000 image=  1
+ selecting res ALA 110 - A  110   1 q= 0.000 image=  1
+ selecting res TRP 111 - A  111   1 q= 0.000 image=  1
+ selecting res TRP 111 - A  111   1 q= 0.000 image=  1
+ selecting res ARG 112 - A  112   1 q= 0.000 image=  1
+ selecting res ARG 112 - A  112   1 q= 0.000 image=  1
+ selecting res ARG 112 - A  112   1 q= 0.000 image=  1
+ selecting res ARG 112 - A  112   1 q= 0.000 image=  1
+ selecting res ARG 112 - A  112   1 q= 0.000 image=  1
+ selecting res ARG 112 - A  112   1 q= 0.000 image=  1
+ selecting res ASN 113 - A  113   1 q= 0.000 image=  1
+ selecting res ASN 113 - A  113   1 q= 0.000 image=  1
+ selecting res ASN 113 - A  113   1 q= 0.000 image=  1
+ selecting res ARG 114 - A  114   1 q= 0.000 image=  1
+ selecting res ARG 114 - A  114   1 q= 0.000 image=  1
+ selecting res ARG 114 - A  114   1 q= 0.000 image=  1
+ selecting res ARG 114 - A  114   1 q= 0.000 image=  1
+ selecting res ARG 114 - A  114   1 q= 0.000 image=  1
+ selecting res ARG 114 - A  114   1 q= 0.000 image=  1
+ selecting res LYS 116 - A  116   1 q= 0.000 image=  1
+ selecting res LYS 116 - A  116   1 q= 0.000 image=  1
+ selecting res LYS 116 - A  116   1 q= 0.000 image=  1
+ selecting res LYS 116 - A  116   1 q= 0.000 image=  1
+ selecting res GLY 117 - A  117   1 q= 0.000 image=  1
+ selecting res THR 118 - A  118   1 q= 0.000 image=  1
+ selecting res THR 118 - A  118   1 q= 0.000 image=  1
+ selecting res ASP 119 - A  119   1 q= 0.000 image=  1
+ selecting res VAL 120 - A  120   1 q= 0.000 image=  1
+ selecting res GLN 121 - A  121   1 q= 0.000 image=  1
+ selecting res GLN 121 - A  121   1 q= 0.000 image=  1
+ selecting res GLN 121 - A  121   1 q= 0.000 image=  1
+ selecting res ALA 122 - A  122   1 q= 0.000 image=  1
+ selecting res TRP 123 - A  123   1 q= 0.000 image=  1
+ selecting res ILE 124 - A  124   1 q= 0.000 image=  1
+ selecting res ARG 125 - A  125   1 q= 0.000 image=  1
+ selecting res ARG 125 - A  125   1 q= 0.000 image=  1
+ selecting res ARG 125 - A  125   1 q= 0.000 image=  1
+ selecting res ARG 125 - A  125   1 q= 0.000 image=  1
+ selecting res ARG 125 - A  125   1 q= 0.000 image=  1
+ selecting res ARG 125 - A  125   1 q= 0.000 image=  1
+ selecting res GLY 126 - A  126   1 q= 0.000 image=  1
+ selecting res cYS 127 - A  127   1 q= 0.000 image=  1
+ selecting res ARG 128 - A  128   1 q= 0.000 image=  1
+ selecting res ARG 128 - A  128   1 q= 0.000 image=  1
+ selecting res ARG 128 - A  128   1 q= 0.000 image=  1
+ selecting res ARG 128 - A  128   1 q= 0.000 image=  1
+ selecting res ARG 128 - A  128   1 q= 0.000 image=  1
+ selecting res ARG 128 - A  128   1 q= 0.000 image=  1
+ selecting res LEu 129 - A  129   1 q= 0.000 image=  1
+ selecting res EDO 301 - A    1   3 q= 0.000 image=  1
+ selecting res EDO 301 - A    1   3 q= 0.000 image=  1
+ selecting res EDO 302 - A    1   4 q= 0.000 image=  1
+ selecting res EDO 302 - A    1   4 q= 0.000 image=  1
+ selecting res EDO 303 - A    1   5 q= 0.000 image=  1
+ selecting res EDO 303 - A    1   5 q= 0.000 image=  1
+ 
+ nber of complete, chain OK, chain broken, missing residues:
+ ACT    1    0    0    0
+ AlA    0    0    0    0
+ ALa    0    0    0    0
+ ALA   12    0    0    0
+ Arg    0    0    0    0
+ ArG    0    0    0    0
+ ARg    0    0    0    0
+ ARG   11    0    0    0
+ AsN    0    0    0    0
+ ASn    0    0    0    0
+ ASN   14    0    0    0
+ aSP    0    0    0    0
+ Asp    0    0    0    0
+ AsP    0    0    0    0
+ ASp    0    0    0    0
+ ASP    7    0    0    0
+ BC1    0    0    0    0
+ BCL    0    0    0    0
+ BCr    0    0    0    0
+ BCR    0    0    0    0
+ BP1    0    0    0    0
+ BPH    0    0    0    0
+  CA    0    0    0    0
+ CHL    0    0    0    0
+ CL1    0    0    0    0
+ CL2    0    0    0    0
+ CLa    0    0    0    0
+ CLb    0    0    0    0
+ CLc    0    0    0    0
+ CLd    0    0    0    0
+ CLe    0    0    0    0
+ CLf    0    0    0    0
+ CLg    0    0    0    0
+ CLh    0    0    0    0
+ CLi    0    0    0    0
+ COP    0    0    0    0
+ cYs    0    0    0    0
+ cYS    8    0    0    0
+ CyS    0    0    0    0
+ CYs    0    0    0    0
+ CYS    0    0    0    0
+ EDO    3    0    0    0
+  FE    0    0    0    0
+ FS4    0    0    0    0
+ Gln    0    0    0    0
+ GlN    0    0    0    0
+ GLn    0    0    0    0
+ GLN    3    0    0    0
+ gLU    0    0    0    0
+ Glu    0    0    0    0
+ GlU    0    0    0    0
+ GLu    0    0    0    0
+ GLU    2    0    0    0
+ GlY    0    0    0    0
+ GLy    0    0    0    0
+ GLY   12    0    0    0
+ hIs    0    0    0    0
+ hIS    1    0    0    0
+ HiS    0    0    0    0
+ HIs    0    0    0    0
+ HIS    0    0    0    0
+ Hoh  170    0    0    0
+ HOH    0    0    0    0
+ HYD    0    0    0    0
+ IlE    0    0    0    0
+ ILe    0    0    0    0
+ ILE    6    0    0    0
+ LeU    0    0    0    0
+ LEu    1    0    0    0
+ LEU    7    0    0    0
+ LHa    0    0    0    0
+ LHb    0    0    0    0
+ LHG    0    0    0    0
+ LMa    0    0    0    0
+ LMb    0    0    0    0
+ LMG    0    0    0    0
+ Lys    0    0    0    0
+ LyS    1    0    0    0
+ LYs    0    0    0    0
+ LYS    5    0    0    0
+ MeT    0    0    0    0
+ MEt    0    0    0    0
+ MET    2    0    0    0
+  NA    0    0    0    0
+ NO3    9    0    0    0
+ PhE    0    0    0    0
+ PHe    0    0    0    0
+ PHE    3    0    0    0
+ PHY    0    0    0    0
+ PO4    0    0    0    0
+ PQn    0    0    0    0
+ PQN    0    0    0    0
+ PrO    0    0    0    0
+ PRo    0    0    0    0
+ PRO    2    0    0    0
+ Ser    0    0    0    0
+ SeR    0    0    0    0
+ SEr    0    0    0    0
+ SER   10    0    0    0
+ SOD    0    0    0    0
+ SPO    0    0    0    0
+ ThR    0    0    0    0
+ THr    0    0    0    0
+ THR    7    0    0    0
+ tRp    0    0    0    0
+ tRP    0    0    0    0
+ TrP    0    0    0    0
+ TRp    0    0    0    0
+ TRP    6    0    0    0
+ TyR    0    0    0    0
+ TYr    0    0    0    0
+ TYR    2    1    0    0
+ U10    0    0    0    0
+ Val    0    0    0    0
+ VaL    0    0    0    0
+ VAl    0    0    0    0
+ VAL    6    0    0    0
+total nber OK=                                 311
+total nber chain OK but incompete sidechain=     1
+total nber residues with inclomplet chain=       0
+total nber missing residues=                     0
+total nber initail HYD term residues=            0
+nber new templates=                              0
+nber residues with added hydrogens=             34
+nber residues with added heavy atoms=            0
+nber atoms with more cons than in template=      0
+nber H length errors=                          248
+  WRITING: 2VB1BBBc.hin                            
+ natoms,nimages,nmol=        2194          27         184

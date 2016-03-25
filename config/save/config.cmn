@@ -1,0 +1,32 @@
+      real*4 Rgas
+      integer mrest,mgroup,mint,mingroup,mpos,mtype
+      parameter (mrest=2500, mgroup=1800, mingroup=10, mint=200,
+     $           mpos=72, mtype=50, Rgas=0.00198588)
+      real*4 xg(m,mpos),yg(m,mpos),zg(m,mpos)   
+      real*4 xnew(m),ynew(m),znew(m)
+      real*4 xoff(mrest,mrest),yoff(mrest,mrest),zoff(mrest,mrest) 
+      real*4 eps2(mtype,mtype),sig2(mtype,mtype)
+      real*4 enew(mrest,mrest),e(mrest,mrest),water(6,mpos)
+      integer*2 anisog(6,m,mpos)
+      integer resgroup(mrest),ningroup(mgroup) 
+      integer iarest(mrest),jarest(mrest),narest(mrest),iattype(m)
+      integer configres(mrest),nrest,ngroup1,nrest1,ngroup
+      integer config(mgroup),group(mingroup,mgroup)
+      integer nberint(mrest),intlist(mint,mrest),npos(mgroup)
+      character*3 grouptype(mgroup)      
+      character*12 resnamet(mrest)
+  
+      logical iswater(mgroup),iswaternew,kwaternew
+      logical isedo(mgroup),iedonew,kedonew
+      logical isnitrate(mgroup),initrate,knitrate
+
+      common /conx/ xg,yg,zg,xoff,yoff,zoff,xnew,ynew,znew
+      common /conl/ iswater,iswaternew,kwaternew
+     $              ,isedo,iedonew,kedonew
+     $              ,isnitrate,initrate,knitrate
+      common /coni/ iarest,jarest,narest,grouptype,ningroup
+     $              ,resgroup,iattype,nrest,ngroup1,nrest1,ngroup
+      common /conf/ configres,config,group,intlist,npos,nberint
+     $              ,resnamet
+      common /cone/ eps2,sig2,e,enew,water
+     
